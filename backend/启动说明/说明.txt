@@ -1,0 +1,7 @@
+1.将course.json、course_booking.json、user.json导入到MongoDB
+
+2.platform-backend根目录下执行命令：npm run start
+
+3.nodejs要求版本16+
+
+4.上传的course 封面图在public目录里呢

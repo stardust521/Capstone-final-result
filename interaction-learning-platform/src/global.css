@@ -1,0 +1,80 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.layout__loading {
+  width: 100%;
+  height: 100%;
+}
+.pages-wrap {
+  width: 100%;
+  height: 100%;
+}
+.ogo-modal-header {
+  border-bottom: 0 !important;
+}
+.ogo-result-title {
+  font-size: 20px;
+}
+.ogo-tree .ogo-tree-node-content-wrapper.ogo-tree-node-selected {
+  background-color: #f2f6fc;
+}
+.ogo-tree .ogo-tree-treenode-draggable .ogo-tree-draggable-icon {
+  display: none;
+}
+.ogo-tree-indent-unit {
+  width: 8px !important;
+}
+.ogo-tree-switcher {
+  width: 16px !important;
+}
+.flex {
+  display: flex;
+}
+.flex.flex-direction-col {
+  flex-direction: column;
+}
+.flex.justify-between {
+  justify-content: space-between;
+}
+.flex1 {
+  flex: 1;
+}
+.flex.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+::-webkit-scrollbar {
+  width: 6px;
+  height: 10px;
+  overflow: visible;
+}
+::-webkit-scrollbar-thumb {
+  min-height: 10px;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+::-webkit-scrollbar-track-piece {
+  border-radius: 5px;
+}
+::-webkit-scrollbar {
+  background-color: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #f5f6fc;
+}
+::-webkit-scrollbar-thumb:vertical:hover {
+  background-color: #e1e1e1;
+}
+::-webkit-scrollbar-thumb:vertical:active {
+  background-color: #e1e1e1;
+}
+.emoji {
+  width: 20px;
+  height: 20px;
+  margin: 0 2px;
+}

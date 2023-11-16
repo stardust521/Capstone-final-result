@@ -1,0 +1,29 @@
+.card-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.empty-card {
+  width: 599px;
+  /* 替换为CurCard组件的实际宽度 */
+  height: 130px;
+  /* 替换为CurCard组件的实际高度 */
+  background-color: #f4f4f4;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+}
+
+.search {
+  background-color: #ec11b2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  /* 稍微调整了按钮的填充以提供更好的外观 */
+  cursor: pointer;
+  margin-top: 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  /* 添加了一个轻微的阴影以增加深度 */
+  transition: transform 0.3s, box-shadow 0.3s;
+}

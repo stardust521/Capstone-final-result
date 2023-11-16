@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "65337452a01ef768259c3b7b"
+  },
+  "type": "student",
+  "username": "1",
+  "password": "dcf23def713403adbd7c7e76820eeb82",
+  "nickname": "student tom11343334",
+  "faculty": "Computer",
+  "bio": "Is a person who likes to learn a lot, the most love computers, mathematics, etc., like to study the technology of ai artificial intelligence",
+  "like": "Football",
+  "avatar": "3.png"
+},
+{
+  "_id": {
+    "$oid": "653375197c2dc638ff8447fe"
+  },
+  "type": "tutor",
+  "username": "2",
+  "password": "e8fc93befb06e72c5f00ae870877bd34",
+  "nickname": "teacher234",
+  "faculty": "Computer",
+  "bio": "My main interests are in applying formal methods to create high-quality software. In particular, I am interested inmodel-checking and theorem-proving, program analysis and verification, safety and certification, requirementsengineering, and all aspects of modeling and model management, My other interests include security, automotivesoftware development - including self-driving, and issues related to women in technology.",
+  "like": "Music",
+  "avatar": "3.png"
+},
+{
+  "_id": {
+    "$oid": "6533752f7c2dc638ff8447ff"
+  },
+  "type": "admin",
+  "username": "admin",
+  "password": "477f27d3fd770c9b7e27b9210c7961d5",
+  "nickname": "admin",
+  "faculty": "Computer",
+  "bio": "admin.",
+  "avatar": "4.png"
+},
+{
+  "_id": {
+    "$oid": "654e36bb53685cd38793adf9"
+  },
+  "type": "student",
+  "username": "44",
+  "password": "e279c96d5315114804524e5dbd846231",
+  "nickname": "5555",
+  "faculty": "5",
+  "bio": "55",
+  "like": "555",
+  "avatar": "4.png"
+}]

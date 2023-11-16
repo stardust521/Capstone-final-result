@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "653376ee7c2dc638ff844801"
+  },
+  "cover_img": "MAT2.jpg",
+  "description": "This course introduces HCI user-centered practice. it will cover both theoretical and practical applications of Human-Computer Interaction concepts. It covers five interrelated themes: issue analysis, idea generation, prototype, implementation, and evaluation. It will teach you effective strategies for understanding people and recognizing design opportunities. ",
+  "name": "MAT 107 Introduction to Mathematics",
+  "tutor_user_id": {
+    "$oid": "653f4477414e521df684461f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6533776e7c2dc638ff844802"
+  },
+  "cover_img": "CHI.jpeg",
+  "description": "This Standard Mandarin Chinese course is ideal for beginners with little or no prior knowledge. This course uses a communicative method to teach students essential Mandarin Chinese skills such as listening, speaking, reading, and writing. This course emphasizes language elements and incorporates traditional and modern cultural material.",
+  "name": "CHI 103 Elementary Chinese",
+  "tutor_user_id": {
+    "$oid": "653375197c2dc638ff8447fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "6533778b7c2dc638ff844803"
+  },
+  "cover_img": "CSE.png",
+  "description": "The course objective is : 1. Students can define software engineering words such as software life cycle and improvement models. 2. Students can use object-oriented design to identify classes, objects, and their relationships. 3. A student can comprehend UML diagrams for OO designs and transform them to code. 4. Students can code with ArrayLists/Vectors. ",
+  "name": "CSE 219 Object Oriented Programming & Data Structures",
+  "tutor_user_id": {
+    "$oid": "653375197c2dc638ff8447fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "653377a47c2dc638ff844804"
+  },
+  "cover_img": "KOR.png",
+  "description": "For the course, The main goal is to improve advanced reading comprehension, vocabulary, and discussion/presentation abilities. A variety of themes will be covered through reading, speaking, listening, and writing activities. The training emphasizes interpersonal, interpretative, and presentational communication abilities.",
+  "name": "KOR 308 Third-year Korean I",
+  "tutor_user_id": {
+    "$oid": "653375197c2dc638ff8447fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "653377b87c2dc638ff844805"
+  },
+  "cover_img": "HCI.png",
+  "description": "This course introduces HCI user-centered practice. It will cover both theoretical and practical applications of Human-Computer Interaction concepts. It covers five interrelated themes: issue analysis, idea generation, prototype, implementation, and evaluation, and it will teach you effective strategies for understanding people and recognizing design opportunities.",
+  "name": "COM 525 Introduction to Human Computer Interaction",
+  "tutor_user_id": {
+    "$oid": "653375197c2dc638ff8447fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "653377d37c2dc638ff844806"
+  },
+  "cover_img": "PPE.png",
+  "description": "a. Preparing to Play (grip, ready stance, mastering basic strokes and hand skills) b. Forehand and backhand strokes/lloops/ chops c. Understand topspin and underspin and footwork d. Execute serve and return e. Practicing match",
+  "name": "PPE 208 Table Tennis II",
+  "tutor_user_id": {
+    "$oid": "653375197c2dc638ff8447fe"
+  }
+}]

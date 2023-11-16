@@ -1,0 +1,42 @@
+@media (min-width: 1200px) {
+  .css-1oqqzyl-MuiContainer-root {
+      max-width: 1200px;
+    }
+}
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+  font-size: 24px;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected {
+  font-size: 16px;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+  font-size: 16px !important;
+}
+.css-1y942vo-MuiButtonBase-root-MuiButton-root {
+  font-size: 14px !important;
+}
+.css-12n0uxm-MuiGrid-root {
+  align-items: center;
+}
+.platform-name{
+  font-size: 22px;
+}
+.header-menu {
+  font-size: 18px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.header-menu div {
+  padding: 10px 15px;
+}
+.header-menu div:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+.header-title {
+  text-transform: uppercase;
+}
